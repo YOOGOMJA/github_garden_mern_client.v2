@@ -20,7 +20,7 @@
     "highcharts": "^8.0.4",
     "highcharts-react-official": "^3.0.0",
     "language-colors": "^1.181.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "node-sass": "^4.13.1",
     "nuka-carousel": "^4.7.0",
     "react": "^16.13.1",
